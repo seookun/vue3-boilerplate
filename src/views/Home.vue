@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="@/images/logo.png" />
+    <img alt="Vue logo" src="@/assets/images/logo.png" />
     <hellow-world msg="Welcome to Your Vue3 Boilerplate" />
   </div>
 </template>
